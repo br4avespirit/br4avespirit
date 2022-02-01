@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java programming and i would like to become a java trainee
 - 🌱 I’m currently learning JDBC, Hibernate and Spring framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: br4avespirit@gmail.com
+- 📫 How to reach me: br4vespirit@gmail.com
 
 <!---
 br4avespirit/br4avespirit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
